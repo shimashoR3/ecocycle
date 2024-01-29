@@ -1,0 +1,15 @@
+/*indexのCSS*/
+body {
+    background-image: url("../start-gamen.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    text-align: center;
+    color: aliceblue;
+    padding: 10px;
+}
+.absolute01{
+    position: absolute;
+    left: 15px;
+    bottom: 150px;
+}
